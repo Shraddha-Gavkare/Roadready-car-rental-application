@@ -59,6 +59,7 @@ CompleteProject/
 | 📹 **Video Link**                   | [https://drive.google.com/file/d/11RawISOP1Xw7dJR9XsRo9Zd-yUuB9MS4/view?usp=sharing]
 | 🌐 **Frontend and Backend Code Zip**| [https://drive.google.com/drive/folders/1zZKyl-sDfadbFGpmcRr7AsdGfgt-P90z?usp=sharing]
 | 🧱 **SQL Scripts**                  | [https://drive.google.com/file/d/16CHDGqPoAX9DQCMyudni5G-jidBHFmzb/view?usp=sharing]
+| 📹 **PPT Link**                     | [https://docs.google.com/presentation/d/1WCSyF77OK2hd06vEyqQFw1ucE7MS9hVV/edit?usp=sharing&ouid=113278176976337080858&rtpof=true&sd=true]
 
 ## 🧰 Tech Stack
 
